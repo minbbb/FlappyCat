@@ -16,7 +16,11 @@ The game was tested only on arduino uno
 Игра тестировалась только на arduino uno
 
 -----
-# Photo
+# How to connect
+![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/scheme.png "Scheme")
+
+-----
+# Photos
 ![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/photo1.jpg "Photo 1")
 ![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/photo2.jpg "Photo 2")
 ![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/photo3.jpg "Photo 3")
