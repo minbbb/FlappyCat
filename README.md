@@ -24,3 +24,4 @@ The game was tested only on arduino uno
 ![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/photo1.jpg "Photo 1")
 ![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/photo2.jpg "Photo 2")
 ![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/photo3.jpg "Photo 3")
+![alt-текст](https://github.com/minbbb/FlappyCat/blob/master/images/photo4.jpg "Photo 4")
